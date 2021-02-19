@@ -1,0 +1,12 @@
+{
+  "name": "radobeach",
+  "version": "1.0.0",
+  "description": "site en cour de developpement",
+  "main": "./directory/js/index.js",
+  "scripts": {
+    "sass": "sass --watch ./directory/sass/main.scss:./directory/public/css/style.css"
+  },
+  "author": "Mj developppement",
+  "license": "ISC",
+  "dependencies": {}
+}

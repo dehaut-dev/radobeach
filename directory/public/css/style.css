@@ -1,0 +1,152 @@
+#header-p {
+  background-image: url("../images/nuit.jpg");
+  background-repeat: no-repeat !important;
+  background-attachment: fixed;
+  background-position: top center !important;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  background-size: cover !important;
+}
+
+#image__header {
+  padding-left: 1rem;
+  width: 75px;
+  height: auto;
+  margin-top: 1rem;
+}
+
+#container__header {
+  transform: translate(0px, 2rem);
+  border-radius: 30px;
+  border: 2px solid #ffffff;
+  margin-top: 10rem;
+  background-color: black;
+}
+
+#title__header {
+  font-size: 40px;
+  text-transform: uppercase;
+  color: #ffffff !important;
+  text-align: center;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+
+h2 {
+  font-family: "Raleway", Helvetica, Arial, Lucida, sans-serif;
+  font-size: 40px;
+  line-height: 1.2em;
+}
+
+#privatisation {
+  padding-right: 4rem;
+  padding-top: 8rem;
+  padding-bottom: 5rem;
+  background-image: linear-gradient(5deg, #008b93 29%, rgba(255, 255, 255, 0.9) 7%);
+}
+
+#privatisation img {
+  box-shadow: 5px 5px 5px #6e5b5b;
+}
+
+#privatisation p {
+  text-align: left;
+}
+
+#evenement {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  padding-left: 4rem;
+  color: white;
+  background-color: #008b93;
+  display: flex;
+}
+
+#evenement p {
+  text-align: left;
+}
+
+#evenement img {
+  box-shadow: 5px 5px 5px black;
+}
+
+.img__body {
+  max-width: 40%;
+  box-shadow: 10rem;
+}
+
+#possibilite {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+footer,
+p {
+  margin-bottom: 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  text-align: center;
+}
+
+i {
+  font-size: 2rem;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  h2 {
+    font-family: "Raleway", Helvetica, Arial, Lucida, sans-serif;
+    font-size: 40px;
+    line-height: 1.2em;
+  }
+
+  #privatisation {
+    padding-top: 8rem;
+    padding-bottom: 5rem;
+    background-image: linear-gradient(5deg, #008b93 29%, rgba(255, 255, 255, 0.9) 7%);
+  }
+
+  #privatisation img {
+    box-shadow: 5px 5px 5px #6e5b5b;
+  }
+
+  #privatisation p {
+    text-align: left;
+  }
+
+  #evenement {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    color: white;
+    background-color: #008b93;
+    display: flex;
+  }
+
+  #evenement p {
+    text-align: center;
+  }
+
+  #possibilite {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
+
+  .img__body {
+    max-width: 100%;
+    box-shadow: 10rem;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
