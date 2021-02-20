@@ -1,13 +1,34 @@
 
-#header-p {
-    background-image: url("../images/nuit.jpg");
+#header-evenementiel {
+    background-image: url("../../../images/nuit.jpg");
     background-repeat: no-repeat !important;
     background-attachment: fixed;
     background-position: top center !important;
     -webkit-background-size: cover !important;
     -moz-background-size: cover !important;
     background-size: cover !important;
-
+}
+#header-restaurant {
+    background-image: url("../../../images/restaurant/restaurant-header.jpg");
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    background-position: top center !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    background-size: cover !important;
+    width :auto;
+    height:50rem;
+}
+#header-plage {
+    background-image: url("../../../images/plage/plage-header.jpg");
+    background-repeat: no-repeat !important;
+    background-attachment: fixed;
+    background-position: top center !important;
+    -webkit-background-size: cover !important;
+    -moz-background-size: cover !important;
+    background-size: cover !important;
+    width :auto;
+    height:50rem;
 }
 
 #image__header {
@@ -21,7 +42,7 @@
     transform: translate(0px, 2rem);
     border-radius: 30px;
     border: 2px solid #ffffff;
-    margin-top: 10rem;
+    margin-top: 35rem;
     background-color: black;
 }
 

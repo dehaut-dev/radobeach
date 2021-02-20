@@ -41,13 +41,16 @@
   <section class="container" id="redirection">
     <div class="row">
       <div class="col-sm-4">
-        <img src="./images/annex/CHARLOTTE.jpg" alt="" srcset="">
+        <a href="./restaurant.php"><img src="./images/annex/CHARLOTTE.jpg" alt="" srcset=""></a>
+        
       </div>
       <div class="col-sm-4">
-        <img src="./images/annex/evenements.jpg" alt="" srcset="">
+      <a href="./plage.php"><img src="./images/annex/plage.jpg" alt="" srcset=""></a>
+      
+
       </div>
       <div class="col-sm-4">
-        <img src="./images/annex/plage.jpg" alt="" srcset="">
+      <a href="./evenementiel.php"><img src="./images/annex/evenements.jpg" alt="" srcset=""></a>
       </div>
     </div>
   </section>
@@ -58,7 +61,7 @@
         <div class="col-md-6 col-sm-4">
 
         <div class="ratio ratio-16x9">
-          <iframe src="https://www.youtube.com/watch?time_continue=1&v=FWRnsmMnMm8&feature=emb_logo&ab_channel=HelenTraiteur" title="YouTube video" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/FWRnsmMnMm8" title="YouTube video" allowfullscreen></iframe>
         </div>
           
         </div>
@@ -111,8 +114,7 @@
 
 </section>
 
-<section class="container-fluid" id="contact">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8496.129216713127!2d7.020512829333765!3d43.54600907253235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe5a19d8866b66518!2sRado+Plage!5e1!3m2!1sfr!2sfr!4v1555518782892!5m2!1sfr!2sfr" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen=""></iframe>
-</section>
+<iframe class="container-fluid" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8496.129216713127!2d7.020512829333765!3d43.54600907253235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe5a19d8866b66518!2sRado+Plage!5e1!3m2!1sfr!2sfr!4v1555518782892!5m2!1sfr!2sfr" width="100%" height="650" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+
 
   <?php require './directory/import/footer.html'; ?>
