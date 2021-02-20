@@ -18,7 +18,7 @@
         </div>
         <div class="col-md-4 col-sm-6">
             <h2>Privatisation du lieu</h2>
-            <p>Vous souhaitez organiser un événement sur une plage de La Croisette ? Rado Beach Helen est le lieu idéal.
+            <p>Située au cœur de La Croisette, entre les hôtels Carlton et Martinez, face au Miramar, Rado Beach Helen est la plus ancienne plage de Cannes tenue par la même famille depuis 1958.
             </p>
             <p>Dans un cadre accueillant et convivial, nous vous créerons des souvenirs inoubliables en privatisant nos
                 espaces pour un ou plusieurs jours.</p>
